@@ -20,4 +20,4 @@ Tenho 21 anos, possuo o curso integrado de informática pelo IFPB - Campus Cajaz
 
 
 [![josephcavalcante's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephcavalcante&theme=nightowl)](https://github.com/josephcavalcante/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephcavalcante&theme=nightowl)](https://github.com/josephcavalcante/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephcavalcante&theme=nightowl&layout=donut)
