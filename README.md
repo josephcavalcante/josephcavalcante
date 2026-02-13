@@ -2,6 +2,7 @@
 Olá! Eu sou Joseph Cavalcante
 Tenho 21 anos, possuo o curso técnico de informática pelo IFPB - Campus Cajazeiras e presentemente curso ADS pelo IFPB - Campus Santa Rita, sempre fui bem próximo da tecnologia e as maravilhas que ela pode oferecer, conheci programação através de modificação para games online, ainda na adolescência, participei de uma equipe em que gerimos o maior servidor brasileiro de Counter Strike: Global Offense, onde eu aprendi o básico de programação e muito sobre administração e gestão de projetos e comunidades, isso foi imprescindível para meu interesse na parte acadêmica, assim conseguindo ampliar meu conhecimento para outras funcionalidades e aprendizagem de outras linguagens de programação. Dessa maneira, sempre me aventurei em outras áreas, como comunicação visual, design, edição de fotos e vídeos.
 
+https://github.com/vyrx-dev/Wallpapers/blob/master/monochrome/a_city_skyline_seen_through_a_window.jpg
 
 ## 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nichollasj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nichollas-cavalcante) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nichollascavalcante@gmail.com) 
