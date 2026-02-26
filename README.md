@@ -1,6 +1,13 @@
 # 🪐 Sobre mim:
-Olá! Eu sou Joseph Cavalcante
-Tenho 21 anos, possuo o curso técnico de informática pelo IFPB - Campus Cajazeiras e presentemente curso ADS pelo IFPB - Campus Santa Rita, sempre fui bem próximo da tecnologia e as maravilhas que ela pode oferecer, conheci programação através de modificação para games online, ainda na adolescência, participei de uma equipe em que gerimos o maior servidor brasileiro de Counter Strike: Global Offense, onde eu aprendi o básico de programação e muito sobre administração e gestão de projetos e comunidades, isso foi imprescindível para meu interesse na parte acadêmica, assim conseguindo ampliar meu conhecimento para outras funcionalidades e aprendizagem de outras linguagens de programação. Dessa maneira, sempre me aventurei em outras áreas, como comunicação visual, design, edição de fotos e vídeos.
+Olá! Eu sou Joseph Cavalcante 👋
+
+Sou apaixonado por tecnologia e pelas maravilhas que ela pode oferecer. Atualmente curso Análise e Desenvolvimento de Sistemas no IFPB - Campus Santa Rita, e possuo formação técnica em Informática pelo IFPB - Campus Cajazeiras.
+
+Minha jornada na programação começou na adolescência, criando modificações para jogos online. Tive a incrível oportunidade de participar da equipe que geriu o maior servidor brasileiro de Counter-Strike: Global Offensive (CS:GO). Essa experiência me ensinou os fundamentos do código e, principalmente, sobre administração de servidores, gestão de projetos e liderança de comunidades.
+
+Esse background prático despertou meu interesse acadêmico e me impulsionou a dominar novas tecnologias e linguagens. Hoje, construo soluções de software focadas em eficiência e escalabilidade (como projetos de aplicativos de ride-sharing), aplicando conceitos de SOLID, Design Patterns, e trabalhando com tecnologias como Java, TypeScript, MongoDB e Redis.
+
+Como acredito que um bom software vai além do back-end, sempre cultivo meu lado criativo. Tenho forte atuação em comunicação visual, design de interfaces e edição de fotos e vídeos, o que me permite ter uma visão ponta a ponta na criação de produtos digitais.
 #
 ![](https://github.com/vyrx-dev/Wallpapers/blob/master/gruvbox/b-820.jpg)
 
