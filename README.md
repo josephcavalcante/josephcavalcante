@@ -5,7 +5,7 @@ Sou apaixonado por tecnologia e pelas maravilhas que ela pode oferecer. Atualmen
 
 Minha jornada na programação começou na adolescência, criando modificações para jogos online. Tive a incrível oportunidade de participar da equipe que geriu o maior servidor brasileiro de Counter-Strike: Global Offensive (CS:GO). Essa experiência me ensinou os fundamentos do código e, principalmente, sobre administração de servidores, gestão de projetos e liderança de comunidades.
 
-Esse background prático despertou meu interesse acadêmico e me impulsionou a dominar novas tecnologias e linguagens. Hoje, construo soluções de software focadas em eficiência e escalabilidade (como projetos de aplicativos de ride-sharing), aplicando conceitos de SOLID, Design Patterns, e trabalhando com tecnologias como Java, TypeScript, MongoDB e Redis.
+Esse background prático despertou meu interesse acadêmico e me impulsionou a dominar novas tecnologias e linguagens. Hoje, construo soluções de software focadas em eficiência e escalabilidade, aplicando conceitos de SOLID, Design Patterns, e trabalhando com tecnologias como Java, TypeScript, MongoDB e Redis.
 
 Como acredito que um bom software vai além do back-end, sempre cultivo meu lado criativo. Tenho forte atuação em comunicação visual, design de interfaces e edição de fotos e vídeos, o que me permite ter uma visão ponta a ponta na criação de produtos digitais.
 #
