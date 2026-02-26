@@ -1,6 +1,7 @@
 # 🪐 Sobre mim:
 Olá! Eu sou Joseph Cavalcante
 Tenho 21 anos, possuo o curso técnico de informática pelo IFPB - Campus Cajazeiras e presentemente curso ADS pelo IFPB - Campus Santa Rita, sempre fui bem próximo da tecnologia e as maravilhas que ela pode oferecer, conheci programação através de modificação para games online, ainda na adolescência, participei de uma equipe em que gerimos o maior servidor brasileiro de Counter Strike: Global Offense, onde eu aprendi o básico de programação e muito sobre administração e gestão de projetos e comunidades, isso foi imprescindível para meu interesse na parte acadêmica, assim conseguindo ampliar meu conhecimento para outras funcionalidades e aprendizagem de outras linguagens de programação. Dessa maneira, sempre me aventurei em outras áreas, como comunicação visual, design, edição de fotos e vídeos.
+#
 ![](https://github.com/vyrx-dev/Wallpapers/blob/master/gruvbox/b-820.jpg)
 
 ## 🌐 Redes Sociais:
