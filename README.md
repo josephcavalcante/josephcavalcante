@@ -1,15 +1,13 @@
 # 🪐 Sobre mim:
 Olá! Eu sou Joseph Cavalcante 👋
 
-Sou apaixonado por tecnologia e pelas maravilhas que ela pode oferecer. Atualmente curso Análise e Desenvolvimento de Sistemas no IFPB - Campus Santa Rita, e possuo formação técnica em Informática pelo IFPB - Campus Cajazeiras.
+Sou Desenvolvedor, Atualmente curso Análise e Desenvolvimento de Sistemas no IFPB - Campus Santa Rita, e possuo formação técnica em Informática pelo IFPB - Campus Cajazeiras.
 
-Minha jornada na programação começou na adolescência, criando modificações para jogos online. Tive a incrível oportunidade de participar da equipe que geriu o maior servidor brasileiro de Counter-Strike: Global Offensive (CS:GO). Essa experiência me ensinou os fundamentos do código e, principalmente, sobre administração de servidores, gestão de projetos e liderança de comunidades.
+Minha jornada na programação começou na incrível oportunidade de participar da equipe que geriu o maior servidor brasileiro de Counter-Strike: Global Offensive (CS:GO). Essa experiência me ensinou os fundamentos do código, administração de servidores, gestão de projetos e liderança de comunidades.
 
-Esse background prático despertou meu interesse acadêmico e me impulsionou a dominar novas tecnologias e linguagens. Hoje, construo soluções de software focadas em eficiência e escalabilidade, aplicando conceitos de SOLID, Design Patterns, e trabalhando com tecnologias como Java, TypeScript, MongoDB e Redis.
+Hoje, construo soluções de software focadas em eficiência e escalabilidade, aplicando conceitos de SOLID, Design Patterns, e trabalhando com tecnologias como Spring, Java, TypeScript, PostgreSQL, MongoDB e Redis.
 
 Como acredito que um bom software vai além do back-end, sempre cultivo meu lado criativo. Tenho forte atuação em comunicação visual, design de interfaces e edição de fotos e vídeos, o que me permite ter uma visão ponta a ponta na criação de produtos digitais.
-#
-![](https://github.com/vyrx-dev/Wallpapers/blob/master/gruvbox/b-820.jpg)
 
 ## 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nichollasj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nichollas-cavalcante) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nichollascavalcante@gmail.com) 
