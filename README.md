@@ -49,12 +49,3 @@ Hoje, traduzo essa vivência para a engenharia de software, construindo soluçõ
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=josephcavalcante&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Linguagens" />
 </div>
 
-#### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=josephcavalcante&theme=nightowl&no-frame=false&no-bg=false&margin-w=4" alt="Troféus" />
-</div>
-
-#### 🔝 Top Contributed Repo
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=josephcavalcante&limit=5&theme=nightowl&combine_all_yearly_contributions=true" alt="Top Repositórios" />
-</div>
